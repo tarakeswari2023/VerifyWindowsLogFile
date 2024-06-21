@@ -1,0 +1,10 @@
+E:\WindowLogsApplication\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\WindowLogsApplication\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\WindowLogsApplication\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\WindowLogsApplication\WindowsFormsApp1\obj\Debug\WindowsLogSampleApplication.csprojAssemblyReference.cache
+E:\WindowLogsApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.WatchFileForm.resources
+E:\WindowLogsApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\WindowLogsApplication\WindowsFormsApp1\obj\Debug\WindowsLogSampleApplication.csproj.GenerateResource.cache
+E:\WindowLogsApplication\WindowsFormsApp1\obj\Debug\WindowsLogSampleApplication.csproj.CoreCompileInputs.cache
+E:\WindowLogsApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\WindowLogsApplication\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
